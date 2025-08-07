@@ -1,6 +1,4 @@
-<div align="center">
-    ![Homelab](images/homelab.jpg "Homelab")
-</div>
+![Homelab](images/homelab.jpg "Homelab"){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 # Homelab - Xen Project Hypervisor
 This Homelab is setup on AMD epic server using Xen Project Hypervisor.
