@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    ![Homelab](images/homelab.webp "Homelab")
+    ![Homelab](images/homelab.jpg "Homelab")
 </div>
 
 # Homelab - Xen Project Hypervisor
