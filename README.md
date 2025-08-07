@@ -1,4 +1,4 @@
-![Homelab](images/homelab.jpg "Homelab")
+![Homelab](images/xen-fu-panda.png "Homelab")
 
 # Homelab - Xen Project Hypervisor
 This Homelab is setup on AMD epic server using Xen Project Hypervisor.
