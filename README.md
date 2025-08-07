@@ -13,3 +13,8 @@ The Xen Project hypervisor is an open-source type-1 or baremetal hypervisor, whi
 
 ![Xen Project Architecture](images/xen-project-arch.png "Xen Project Architecture")
 
+- Xen Project Hypervisor is compiled from [source code](https://xenproject.org/resources/downloads "source code").
+
+- [Linux Kernel](https://kernel.org "Linux Kernel") running on VM as Guest OS is compiled from source code to run in PV mode.
+
+
