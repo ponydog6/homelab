@@ -1,6 +1,8 @@
 # ![Homelab](images/xen-fu-panda.png "Homelab") Homelab - Xen Project Hypervisor
 This Homelab is setup on AMD epic server using Xen Project Hypervisor.
 
+- [Homelab images](docs/homelab-images "Homelab images")
+
 The Xen Project hypervisor is an open-source type-1 or baremetal hypervisor, which makes it possible to run many instances of an operating system or indeed different operating systems in parallel on a single machine (or host).
 
 - [Xen Project](https://xenproject.org "Xen Project")
