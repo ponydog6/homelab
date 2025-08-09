@@ -19,10 +19,10 @@ The Xen Project hypervisor is an open-source type-1 or baremetal hypervisor, whi
 - [Linux Kernel](https://kernel.org "Linux Kernel") running on VM as Guest OS is compiled from source code to run in PV mode.
 
 
-- OpenVSwitch is setup on the host system as a bridge between the VM’s and local LAN on one of the NIC interface.
-- One of the VM is setup with ansible for automation using SSH keypairs.
-- An internal DNS server is setup using BIND9.
-- Container applications running on VM’s are orchestrated on Docker swarm.
-- Traffic flow from public IP proxy’d through cloudflare is controlled using traefik.
-- SSL certs are implemented using LetsEncript.
+- [OpenVSwitch](https://www.openvswitch.org "OpenVSwitch") is setup on the host system as a bridge between the VM’s and local LAN on one of the NIC interface.
+- One of the VM is setup with [ansible](https://www.redhat.com/en/ansible-collaborative "ansible") for automation using SSH keypairs.
+- An internal DNS server is setup using [BIND9](https://www.isc.org/bind "BIND9").
+- Container applications running on VM’s are orchestrated on [Docker swarm](https://docs.docker.com/engine/swarm "Docker swarm").
+- Traffic flow from public IP proxy’d through [cloudflare](https://www.cloudflare.com "cloudflare") is controlled using [traefik](https://traefik.io "traefik").
+- SSL certs are implemented using [LetsEncript](https://letsencrypt.org "LetsEncript").
 - Assign GPU to a VM and run LLM on it for AI assisted coding/automation.
